@@ -1,0 +1,84 @@
+/* Inserta tu CSS aqui */
+/* EJERCICIO 1 */
+
+body{
+	margin: 0px;
+	padding: 0px;
+}
+.bloque{
+	height: 50px;
+	width: 50px;
+	position: relative;
+}
+
+.Rojo{
+	background-color: red;
+}
+.Azul{
+	background-color: blue;
+}
+.Verde{
+	background-color: green;
+}
+/* EJERCICIO 2 */
+
+.X{
+	height: 50px;
+	width: 50px;
+	position: relative;
+}
+
+.R{
+	background-color: red;
+	left: 60px;
+}
+.A{
+	background-color: blue;
+	left: 20px;
+}
+.V{
+	background-color: green;
+	left: 100px;
+}
+
+/* EJERCICIO 3 */
+.B{
+	height: 50px;
+	width: 50px;
+	position: relative;
+}
+
+.Ro{
+	background-color: red;
+}
+.Az{
+	background-color: blue;
+	left: 50px;
+}
+.Ve{
+	background-color: green;
+}
+
+/* EJERCICIO 4 */
+.C{
+	height: 50px;
+	width: 50px;
+ 
+}
+.clearfix{
+	border: 1px solid black;
+	display: block;
+	content: " ";
+}
+.Roj{
+	background-color: red;
+	float: left;
+}
+.Azu{
+	background-color: blue;
+	float: left;
+}
+.Verd{
+	background-color: green;
+	clear: both;
+}
